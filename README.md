@@ -18,6 +18,6 @@ I am improving myself on architectures, patterns and principles. I usually use C
 - ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-red)
 
 ## Contact Me
-- [LinkedIn](www.linkedin.com/in/ege-samur-65a351238)
+- [LinkedIn](https://www.linkedin.com/in/ege-samur-65a351238/)
 - [GitHub](https://github.com/EgeSamur)
 - [Mail](mailto:egerumas@gmail.com)
